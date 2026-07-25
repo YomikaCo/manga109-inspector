@@ -1,7 +1,9 @@
 # Manga109 Inspector
 
 A local-first PWA for viewing Manga109 and Manga109-s XML annotations overlaid on manga page images.
-Tested on `manga109-s` dataset.
+Tested on `manga109-s`.
+
+**Live client:** https://yomikaco.github.io/manga109-inspector/
 
 ![Synthetic viewer screenshot](artifacts/fixture-viewer.png)
 
