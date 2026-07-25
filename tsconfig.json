@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "strict": true,
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "skipLibCheck": false,
+    "noUncheckedIndexedAccess": false,
+    "useDefineForClassFields": true
+  },
+  "include": ["site/src/**/*.js", "site/src/**/*.d.ts"],
+  "exclude": ["site/sw.js"]
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title="DemoBook">
+  <characters>
+    <character id="00000001" name="Alice" />
+    <character id="00000002" name="Bob" />
+  </characters>
+  <pages>
+    <page index="0" width="1654" height="1170">
+      <frame id="00000010" xmin="40" ymin="55" xmax="790" ymax="540" />
+      <frame id="00000011" xmin="870" ymin="55" xmax="1605" ymax="540" />
+      <frame id="00000012" xmin="40" ymin="590" xmax="1605" ymax="1115" />
+      <face id="00000013" character="00000001" xmin="220" ymin="150" xmax="390" ymax="320" />
+      <body id="00000014" character="00000001" xmin="170" ymin="310" xmax="455" ymax="500" />
+      <text id="00000015" xmin="470" ymin="120" xmax="730" ymax="285">Hello</text>
+      <face id="00000016" character="00000002" xmin="1110" ymin="145" xmax="1285" ymax="320" />
+      <body id="00000017" character="00000002" xmin="1030" ymin="315" xmax="1370" ymax="505" />
+      <text id="00000018" xmin="1320" ymin="120" xmax="1560" ymax="285">Hi!</text>
+      <face id="00000019" character="00000001" xmin="500" ymin="680" xmax="675" ymax="855" />
+      <body id="0000001a" character="00000001" xmin="430" ymin="850" xmax="760" ymax="1080" />
+      <face id="0000001b" character="00000002" xmin="1040" ymin="675" xmax="1215" ymax="850" />
+      <body id="0000001c" character="00000002" xmin="970" ymin="845" xmax="1300" ymax="1080" />
+    </page>
+    <page index="1" width="1654" height="1170">
+      <frame id="00000020" xmin="45" ymin="55" xmax="1600" ymax="430" />
+      <face id="00000021" character="00000001" xmin="690" ymin="110" xmax="910" ymax="330" />
+      <body id="00000022" character="00000001" xmin="570" ymin="300" xmax="1030" ymax="410" />
+      <text id="00000023" xmin="1040" ymin="105" xmax="1510" ymax="320">こんにちは &amp; Page two</text>
+      <frame id="00000024" xmin="45" ymin="480" xmax="790" ymax="1110" />
+      <face id="00000025" character="00000001" xmin="205" ymin="600" xmax="375" ymax="770" />
+      <body id="00000026" character="00000001" xmin="145" ymin="760" xmax="470" ymax="1060" />
+      <text id="00000027" xmin="505" ymin="600" xmax="735" ymax="790">Left</text>
+      <frame id="00000028" xmin="865" ymin="480" xmax="1600" ymax="1110" />
+      <face id="00000029" character="00000002" xmin="1090" ymin="590" xmax="1280" ymax="780" />
+      <body id="0000002a" character="00000002" xmin="1010" ymin="770" xmax="1370" ymax="1065" />
+      <text id="0000002b" xmin="1370" ymin="580" xmax="1560" ymax="775">Right</text>
+    </page>
+    <page index="2" width="1654" height="1170">
+      <frame id="00000030" xmin="45" ymin="55" xmax="790" ymax="1110" />
+      <face id="00000031" character="00000001" xmin="260" ymin="250" xmax="500" ymax="490" />
+      <body id="00000032" character="00000001" xmin="170" ymin="480" xmax="590" ymax="980" />
+      <text id="00000033" xmin="520" ymin="140" xmax="760" ymax="370">Scaled</text>
+      <frame id="00000034" xmin="865" ymin="55" xmax="1600" ymax="1110" />
+      <face id="00000035" character="00000002" xmin="1080" ymin="230" xmax="1320" ymax="470" />
+      <body id="00000036" character="00000002" xmin="980" ymin="460" xmax="1420" ymax="980" />
+      <text id="00000037" xmin="1320" ymin="120" xmax="1570" ymax="360">image</text>
+    </page>
+  </pages>
+</book>
